@@ -1,4 +1,4 @@
-# Crypto Flash Sender v5
+# Crypto Flash Sender v6
 
 Crypto Flash Sender v5 is a utility designed to facilitate quick and efficient transactions of supported cryptocurrencies. Developed by Bebspleeo, this tool enables users to send USDT, USDC, BUSD, and DAI with ease.
 
